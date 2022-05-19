@@ -3,6 +3,6 @@
 Learning markdown
 Installing python
 ## Day 2
-Manipulating data
+Manipulating data Building a simple calculator using python
 ## Day 3
-Building a simple calculator using python
+Control flow, building a complex calculator
