@@ -17,4 +17,4 @@ Lists
   -Indexes 
   Strings as list?
              or not?
-  -Nerted lists
+  -Nerted lists(matrixes)
