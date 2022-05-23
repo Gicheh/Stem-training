@@ -18,3 +18,5 @@ Lists
   Strings as list?
              or not?
   -Nerted lists(matrixes)
+## Day 5
+lists manipulation
