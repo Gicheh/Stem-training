@@ -20,3 +20,8 @@ Lists
   -Nerted lists(matrixes)
 ## Day 5
 lists manipulation
+## Day 6
+lists tuples sets
+functions
+## Day 7
+dictionaries in python
