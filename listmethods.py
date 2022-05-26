@@ -1,0 +1,16 @@
+fruits=["apple","orange","banana"]
+fruits.append("pawpaw")
+fruits.append("cherry")
+print(fruits)
+fruits.remove("cherry")
+print(fruits)
+my_fruits=fruits.pop(2)
+print(fruits)
+print(my_fruits)
+fruits_2=["kiwi","guava"]
+fruits.extend(fruits_2)
+print(fruits)
+fruits_3=fruits+fruits_2
+print(fruits_3)
+fruits_2.clear()
+print(fruits_2)
