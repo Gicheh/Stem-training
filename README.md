@@ -25,3 +25,4 @@ lists tuples sets
 functions
 ## Day 7
 dictionaries in python
+opening and editing text files
