@@ -26,3 +26,9 @@ functions
 ## Day 7
 dictionaries in python
 opening and editing text files
+## Day 8
+#OOP
+#Defining a class and its attributes
+#Creating instances (objects) of a class.
+#Class methods(functions belonging to a class).
+#Method overriding
