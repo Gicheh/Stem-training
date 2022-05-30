@@ -32,7 +32,7 @@ Defining a class and its attributes
 Creating instances (objects) of a class.
 Class methods(functions belonging to a class).
 Method overriding
-##Day 9
+## Day 9
 GUI
 simple widget
 buttons
