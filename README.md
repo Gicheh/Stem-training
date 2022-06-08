@@ -43,3 +43,12 @@ Importing
  textfields 
 ## Day 12 
  Game development with python
+## Day 13
+functions
+## Day 14
+Intro to IOT & Robotics
+*IOT 
+*Microprocessors
+*Microcontrollers
+*Hardware development
+*Low-level programming
